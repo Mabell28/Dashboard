@@ -5649,6 +5649,9 @@ button.close {
 .p-0 {
   padding: 0; }
 
+.pd-11 {
+  padding: 11%; }
+
 * {
   margin: 0;
   padding: 0; }
@@ -5659,5 +5662,44 @@ button.close {
 @font-face {
   font-family: Lato-Bold;
   src: url(../Fuente/fonts/Lato-Bold.ttf); }
+.container-header {
+  padding: 0;
+  margin: 0; }
+
+.header-1 {
+  height: 60px; }
+
+.icono-univ {
+  float: left;
+  width: 4%; }
+  .icono-univ img {
+    width: 100%; }
+
+.texto-univ {
+  float: left; }
+
+.lista-univ {
+  float: left;
+  margin-left: 60%;
+  width: 20%; }
+
+.header-2 {
+  border-bottom: 1px solid black; }
+
+ul li {
+  list-style: none;
+  float: left;
+  padding: 4%; }
+
+.img-profile {
+  width: 70%;
+  margin-top: -8%; }
+  .img-profile img {
+    width: 70px;
+    height: 70px;
+    border-radius: 50%; }
+
+.espacio {
+  height: 15px; }
 
 /*# sourceMappingURL=main.css.map */
