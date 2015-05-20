@@ -5699,7 +5699,16 @@ ul li {
     height: 70px;
     border-radius: 50%; }
 
+.contenido {
+  background-color: #ecf0f1; }
+
 .espacio {
   height: 15px; }
+
+.titulo {
+  background-color: black; }
+
+.bg-w {
+  background-color: white; }
 
 /*# sourceMappingURL=main.css.map */
